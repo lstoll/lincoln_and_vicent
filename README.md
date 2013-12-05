@@ -1,4 +1,5 @@
 lincoln_and_vicent
 ==================
 
-Because we're best buddies.
+Perquè som super-amics super-guais.
+
